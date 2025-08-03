@@ -5,6 +5,12 @@
 ## User settings
 xcuserdata/
 
+# macOS system files
+.DS_Store
+
+# Xcode user state files
+*.xcuserstate
+
 ## Obj-C/Swift specific
 *.hmap
 
